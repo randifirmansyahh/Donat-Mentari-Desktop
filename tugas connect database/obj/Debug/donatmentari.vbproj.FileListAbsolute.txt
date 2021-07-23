@@ -1,0 +1,42 @@
+C:\Users\user\Desktop\Hospital\tugas connect database\bin\Debug\tugas connect database.exe.config
+C:\Users\user\Desktop\Hospital\tugas connect database\bin\Debug\tugas connect database.exe
+C:\Users\user\Desktop\Hospital\tugas connect database\bin\Debug\tugas connect database.pdb
+C:\Users\user\Desktop\Hospital\tugas connect database\bin\Debug\tugas connect database.xml
+C:\Users\user\Desktop\Hospital\tugas connect database\bin\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+C:\Users\user\Desktop\Hospital\tugas connect database\obj\Debug\donatmentari.vbprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Hospital\tugas connect database\obj\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+C:\Users\user\Desktop\Hospital\tugas connect database\obj\Debug\donatmentari.vbproj.ResolveComReference.cache
+C:\Users\user\Desktop\Hospital\tugas connect database\obj\Debug\tugas_connect_database.cetak.resources
+C:\Users\user\Desktop\Hospital\tugas connect database\obj\Debug\tugas_connect_database.Resources.resources
+C:\Users\user\Desktop\Hospital\tugas connect database\obj\Debug\tugas_connect_database.adeditop.resources
+C:\Users\user\Desktop\Hospital\tugas connect database\obj\Debug\tugas_connect_database.adop.resources
+C:\Users\user\Desktop\Hospital\tugas connect database\obj\Debug\tugas_connect_database.menuad.resources
+C:\Users\user\Desktop\Hospital\tugas connect database\obj\Debug\tugas_connect_database.opadministrasi.resources
+C:\Users\user\Desktop\Hospital\tugas connect database\obj\Debug\tugas_connect_database.opbayar.resources
+C:\Users\user\Desktop\Hospital\tugas connect database\obj\Debug\tugas_connect_database.optampilberita.resources
+C:\Users\user\Desktop\Hospital\tugas connect database\obj\Debug\tugas_connect_database.editdetail.resources
+C:\Users\user\Desktop\Hospital\tugas connect database\obj\Debug\tugas_connect_database.opdetail.resources
+C:\Users\user\Desktop\Hospital\tugas connect database\obj\Debug\tugas_connect_database.opaddorupdatedokter.resources
+C:\Users\user\Desktop\Hospital\tugas connect database\obj\Debug\tugas_connect_database.opdokter.resources
+C:\Users\user\Desktop\Hospital\tugas connect database\obj\Debug\tugas_connect_database.opinputoreditberita.resources
+C:\Users\user\Desktop\Hospital\tugas connect database\obj\Debug\tugas_connect_database.opkomentar.resources
+C:\Users\user\Desktop\Hospital\tugas connect database\obj\Debug\tugas_connect_database.opmenu.resources
+C:\Users\user\Desktop\Hospital\tugas connect database\obj\Debug\tugas_connect_database.opshowpengunjung.resources
+C:\Users\user\Desktop\Hospital\tugas connect database\obj\Debug\tugas_connect_database.oppetugasaddoredit.resources
+C:\Users\user\Desktop\Hospital\tugas connect database\obj\Debug\tugas_connect_database.oppetugasshow.resources
+C:\Users\user\Desktop\Hospital\tugas connect database\obj\Debug\tugas_connect_database.userdenahlokasi.resources
+C:\Users\user\Desktop\Hospital\tugas connect database\obj\Debug\tugas_connect_database.userkomentar.resources
+C:\Users\user\Desktop\Hospital\tugas connect database\obj\Debug\tugas_connect_database.login.resources
+C:\Users\user\Desktop\Hospital\tugas connect database\obj\Debug\tugas_connect_database.loadingawal.resources
+C:\Users\user\Desktop\Hospital\tugas connect database\obj\Debug\tugas_connect_database.pengunjung.resources
+C:\Users\user\Desktop\Hospital\tugas connect database\obj\Debug\tugas_connect_database.usermenu.resources
+C:\Users\user\Desktop\Hospital\tugas connect database\obj\Debug\donatmentari.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\Hospital\tugas connect database\obj\Debug\tugas connect database.exe
+C:\Users\user\Desktop\Hospital\tugas connect database\obj\Debug\tugas connect database.xml
+C:\Users\user\Desktop\Hospital\tugas connect database\obj\Debug\tugas connect database.pdb
+C:\Users\user\Desktop\Hospital\tugas connect database\obj\Debug\tugas_connect_database.TampPesanDonat.resources
+C:\Users\user\Desktop\Hospital\tugas connect database\obj\Debug\tugas_connect_database.TampPesanan.resources
+C:\Users\user\Desktop\Hospital\tugas connect database\obj\Debug\tugas_connect_database.EditPesanan.resources
+C:\Users\user\Desktop\Hospital\tugas connect database\obj\Debug\tugas_connect_database.FormPesanDonat.resources
+C:\Users\user\Desktop\Hospital\tugas connect database\obj\Debug\tugas_connect_database.Tentang.resources
+C:\Users\user\Desktop\Hospital\tugas connect database\obj\Debug\tugas_connect_database.AllPesanan.resources
